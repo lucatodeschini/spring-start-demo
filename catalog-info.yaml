@@ -7,4 +7,4 @@ metadata:
     github.com/project-slug: lucatodeschini/spring-start-demo
 spec:
   type: service
-  lifecycle: unknown
+  lifecycle: production
