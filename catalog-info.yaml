@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-start-demo
+  annotations:
+    github.com/project-slug: lucatodeschini/spring-start-demo
+spec:
+  type: service
+  lifecycle: unknown
